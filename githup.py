@@ -7,5 +7,5 @@ print("This is my first GitHub Project")
 # -- 1) Editoi, talleta
 # -- 2) $ git add . (lisää lokaalit muutokset)
 # -- 3) $ git commit -m "My comment"
-# -- 4) $ git push -u origin maste
+# -- 4) $ git push -u origin master
 # -- lisäviiva
